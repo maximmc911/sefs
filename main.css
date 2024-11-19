@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav2{
+    padding: 15px;
+    border-radius: 15px;
+    background-color: darkgrey;
+    position: sticky;
+    top: 0px;
+}
+.menu{
+    padding: 15px 40px;
+    border-radius: 20px;
+    position: relative;
+    left: 150px;
+}
+.nav__list{
+    list-style: none;
+    position: absolute;
+    left: 50%;
+    top: 10px;
+     font-size: 20px;
+     color: whitesmoke;
+}
+.list__item{
+    position: absolute;
+    left: -200%;
+}
+.list__item1{
+    position: absolute;
+    left: -150%;
+}
+.list__item2{
+    position: absolute;
+    left: -80%;
+}
+.list__item4{
+    position: absolute;
+    left: 120%;
+    top: 0px;
+}
